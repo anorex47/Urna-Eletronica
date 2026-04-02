@@ -1,0 +1,9 @@
+Requisitos:
+Python3
+sqlite3
+Pandas
+SQLalchemy
+
+para acessar a área de votação, abra o cmd nessa pasta e digite "python votacao.py"
+para acessar o boletim da urna, abra o cmd nessa pasta e digite "python boletim_da_urna.py"
+para acessar os resultados da votação, abra o cmd nessa pasta e digite "python resultados.py"
